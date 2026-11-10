@@ -62,7 +62,7 @@ En la imagen de abajo se muestra una captura de pantalla en donde se usa el coma
 Ejemplo | Captura Pantalla | Descripción
 --- | --- | ---
 Uso GDB | ![Usar print para ver el contenido de una estructura](/imagenes/pantalla_gdb1.png) | Screenshot ejemplo del uso de GDB y mostrando contenido 
-Demostrar uso de GDB | Reemplazar este texto con su imagen demostrando uso de GDB (ver código fuente de imagen anterior como ayuda. NO usar espacios en el nombre de la imagen) | Esta captura de imagen usando el comando gbd debe mostrar su nombre de usuario (en el shell o con un _echo_).
+Demostrar uso de GDB |(/imagenes/gdb.png) | Esta captura de imagen usando el comando gbd debe mostrar su nombre de usuario (en el shell o con un _echo_).
 
 
 ## Validación
@@ -75,3 +75,4 @@ make -f Testfile readme
 ## Entregable
 Completar está práctica reparando los errores y modificando el README.md, con al menos dos commit/push.
 No olvidar hacer _git add_; _git commit_ y _git push_
+
